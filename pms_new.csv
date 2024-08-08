@@ -1,0 +1,962 @@
+employee_name,date,hours_worked
+Foxiom Accounts,01-May-24,Absent
+Vishnu Sarath KT,01-May-24,8h 9m
+Hafna KT,01-May-24,Absent
+Mohammed Jabin K,01-May-24,9h 25m
+Muhammed Rifad CC,01-May-24,8h 27m
+Hrithika P,01-May-24,9h 26m
+Ahamed Jaseel KP,01-May-24,8h 42m
+Muhammed Arshak Roshan M,01-May-24,9h 48m
+Nikhil Krishna K,01-May-24,8h 53m
+Muhammed muhsin KP,01-May-24,8h 49m
+Mohammed Ajmal PK,01-May-24,8h 32m
+Anju K,01-May-24,8h 30m
+Nayana Manoharan KK,01-May-24,13h 52m
+Jishnu A,01-May-24,11h 20m
+Samjana K,01-May-24,9h 15m
+Christapher C T,01-May-24,10h 32m
+Akshay VP,01-May-24,9h 43m
+Thanseer M,01-May-24,On Leave
+Mohammed Riyas K,01-May-24,On Leave
+Mohammed Ajmal VP,01-May-24,8h 53m
+Aswin PK,01-May-24,9h 21m
+Aswini P,01-May-24,6h 26m
+Muhammed Salih,01-May-24,Absent
+Shafeeque,01-May-24,Absent
+Shyamkumar P,01-May-24,8h 55m
+Muhammed Ashfaq K,01-May-24,Absent
+Karisma Paul,01-May-24,9h
+Aswin V,01-May-24,Absent
+Nithyadas VP,01-May-24,Absent
+Navya P,01-May-24,Absent
+Fida Salam,01-May-24,Absent
+Foxiom Accounts,02-May-24,Absent
+Vishnu Sarath KT,02-May-24,9h 8m
+Hafna KT,02-May-24,Absent
+Mohammed Jabin K,02-May-24,9h 47m
+Muhammed Rifad CC,02-May-24,7h 21m
+Hrithika P,02-May-24,9h 23m
+Ahamed Jaseel KP,02-May-24,10h 12m
+Muhammed Arshak Roshan M,02-May-24,9h 2m
+Nikhil Krishna K,02-May-24,9h 13m
+Muhammed muhsin KP,02-May-24,9h 9m
+Mohammed Ajmal PK,02-May-24,8h 34m
+Anju K,02-May-24,8h 40m
+Nayana Manoharan KK,02-May-24,8h 48m
+Jishnu A,02-May-24,9h 2m
+Samjana K,02-May-24,9h 49m
+Christapher C T,02-May-24,10h 21m
+Akshay VP,02-May-24,8h 51m
+Thanseer M,02-May-24,8h 53m
+Mohammed Riyas K,02-May-24,9h 33m
+Mohammed Ajmal VP,02-May-24,9h 16m
+Aswin PK,02-May-24,9h 41m
+Aswini P,02-May-24,8h 18m
+Muhammed Salih,02-May-24,Absent
+Shafeeque,02-May-24,Absent
+Shyamkumar P,02-May-24,8h 53m
+Muhammed Ashfaq K,02-May-24,Absent
+Karisma Paul,02-May-24,8h
+Aswin V,02-May-24,Absent
+Nithyadas VP,02-May-24,Absent
+Navya P,02-May-24,Absent
+Fida Salam,02-May-24,Absent
+Foxiom Accounts,03-May-24,Absent
+Vishnu Sarath KT,03-May-24,8h 30m
+Hafna KT,03-May-24,Absent
+Mohammed Jabin K,03-May-24,9h 32m
+Muhammed Rifad CC,03-May-24,Absent
+Hrithika P,03-May-24,9h 28m
+Ahamed Jaseel KP,03-May-24,8h 57m
+Muhammed Arshak Roshan M,03-May-24,Absent
+Nikhil Krishna K,03-May-24,9h 4m
+Muhammed muhsin KP,03-May-24,On Leave
+Mohammed Ajmal PK,03-May-24,8h 48m
+Anju K,03-May-24,8h 39m
+Nayana Manoharan KK,03-May-24,8h 35m
+Jishnu A,03-May-24,9h 53m
+Samjana K,03-May-24,9h 26m
+Christapher C T,03-May-24,10h 29m
+Akshay VP,03-May-24,9h 44m
+Thanseer M,03-May-24,7h 9m
+Mohammed Riyas K,03-May-24,9h 53m
+Mohammed Ajmal VP,03-May-24,9h 13m
+Aswin PK,03-May-24,8h 35m
+Aswini P,03-May-24,Absent
+Muhammed Salih,03-May-24,Absent
+Shafeeque,03-May-24,Absent
+Shyamkumar P,03-May-24,9h 17m
+Muhammed Ashfaq K,03-May-24,Absent
+Karisma Paul,03-May-24,2h 28m
+Aswin V,03-May-24,Absent
+Nithyadas VP,03-May-24,Absent
+Navya P,03-May-24,Absent
+Fida Salam,03-May-24,Absent
+Foxiom Accounts,04-May-24,Absent
+Vishnu Sarath KT,04-May-24,8h 48m
+Hafna KT,04-May-24,7h 25m
+Mohammed Jabin K,04-May-24,9h 20m
+Muhammed Rifad CC,04-May-24,Absent
+Hrithika P,04-May-24,8h 58m
+Ahamed Jaseel KP,04-May-24,10h 7m
+Muhammed Arshak Roshan M,04-May-24,On Leave
+Nikhil Krishna K,04-May-24,9h 2m
+Muhammed muhsin KP,04-May-24,On Leave
+Mohammed Ajmal PK,04-May-24,8h 42m
+Anju K,04-May-24,On Leave
+Nayana Manoharan KK,04-May-24,9h 21m
+Jishnu A,04-May-24,9h 38m
+Samjana K,04-May-24,8h 41m
+Christapher C T,04-May-24,10h 4m
+Akshay VP,04-May-24,8h 53m
+Thanseer M,04-May-24,8h 2m
+Mohammed Riyas K,04-May-24,On Leave
+Mohammed Ajmal VP,04-May-24,8h 13m
+Aswin PK,04-May-24,8h 52m
+Aswini P,04-May-24,8h 42m
+Muhammed Salih,04-May-24,Absent
+Shafeeque,04-May-24,Absent
+Shyamkumar P,04-May-24,Absent
+Muhammed Ashfaq K,04-May-24,Absent
+Karisma Paul,04-May-24,9h 1m
+Aswin V,04-May-24,Absent
+Nithyadas VP,04-May-24,Absent
+Navya P,04-May-24,Absent
+Fida Salam,04-May-24,Absent
+Foxiom Accounts,05-May-24,Absent
+Vishnu Sarath KT,05-May-24,Absent
+Hafna KT,05-May-24,Absent
+Mohammed Jabin K,05-May-24,Absent
+Muhammed Rifad CC,05-May-24,Absent
+Hrithika P,05-May-24,Absent
+Ahamed Jaseel KP,05-May-24,Absent
+Muhammed Arshak Roshan M,05-May-24,Absent
+Nikhil Krishna K,05-May-24,Absent
+Muhammed muhsin KP,05-May-24,19m
+Mohammed Ajmal PK,05-May-24,Absent
+Anju K,05-May-24,Absent
+Nayana Manoharan KK,05-May-24,Absent
+Jishnu A,05-May-24,Absent
+Samjana K,05-May-24,Absent
+Christapher C T,05-May-24,Absent
+Akshay VP,05-May-24,Absent
+Thanseer M,05-May-24,Absent
+Mohammed Riyas K,05-May-24,Absent
+Mohammed Ajmal VP,05-May-24,Absent
+Aswin PK,05-May-24,Absent
+Aswini P,05-May-24,Absent
+Muhammed Salih,05-May-24,Absent
+Shafeeque,05-May-24,Absent
+Shyamkumar P,05-May-24,Absent
+Muhammed Ashfaq K,05-May-24,Absent
+Karisma Paul,05-May-24,Absent
+Aswin V,05-May-24,Absent
+Nithyadas VP,05-May-24,Absent
+Navya P,05-May-24,Absent
+Fida Salam,05-May-24,Absent
+Foxiom Accounts,06-May-24,Absent
+Vishnu Sarath KT,06-May-24,8h 19m
+Hafna KT,06-May-24,8h 28m
+Mohammed Jabin K,06-May-24,9h 25m
+Muhammed Rifad CC,06-May-24,8h 52m
+Hrithika P,06-May-24,9h 33m
+Ahamed Jaseel KP,06-May-24,8h 14m
+Muhammed Arshak Roshan M,06-May-24,On Leave
+Nikhil Krishna K,06-May-24,On Leave
+Muhammed muhsin KP,06-May-24,9h 8m
+Mohammed Ajmal PK,06-May-24,8h 44m
+Anju K,06-May-24,8h 38m
+Nayana Manoharan KK,06-May-24,9h 2m
+Jishnu A,06-May-24,9h 58m
+Samjana K,06-May-24,8h 30m
+Christapher C T,06-May-24,9h 4m
+Akshay VP,06-May-24,On Leave
+Thanseer M,06-May-24,8h 51m
+Mohammed Riyas K,06-May-24,9h 10m
+Mohammed Ajmal VP,06-May-24,9h 10m
+Aswin PK,06-May-24,On Leave
+Aswini P,06-May-24,On Leave
+Muhammed Salih,06-May-24,Absent
+Shafeeque,06-May-24,Absent
+Shyamkumar P,06-May-24,Absent
+Muhammed Ashfaq K,06-May-24,Absent
+Karisma Paul,06-May-24,8h 59m
+Aswin V,06-May-24,Absent
+Nithyadas VP,06-May-24,Absent
+Navya P,06-May-24,Absent
+Fida Salam,06-May-24,Absent
+Foxiom Accounts,07-May-24,Absent
+Vishnu Sarath KT,07-May-24,7h 57m
+Hafna KT,07-May-24,8h 17m
+Mohammed Jabin K,07-May-24,8h 34m
+Muhammed Rifad CC,07-May-24,Absent
+Hrithika P,07-May-24,9h 20m
+Ahamed Jaseel KP,07-May-24,8h 54m
+Muhammed Arshak Roshan M,07-May-24,9h 9m
+Nikhil Krishna K,07-May-24,9h 6m
+Muhammed muhsin KP,07-May-24,8h 56m
+Mohammed Ajmal PK,07-May-24,8h 50m
+Anju K,07-May-24,8h 52m
+Nayana Manoharan KK,07-May-24,9h 11m
+Jishnu A,07-May-24,14h 1m
+Samjana K,07-May-24,9h 11m
+Christapher C T,07-May-24,On Leave
+Akshay VP,07-May-24,Absent
+Thanseer M,07-May-24,8h 31m
+Mohammed Riyas K,07-May-24,9h 9m
+Mohammed Ajmal VP,07-May-24,On Leave
+Aswin PK,07-May-24,9h 5m
+Aswini P,07-May-24,On Leave
+Muhammed Salih,07-May-24,Absent
+Shafeeque,07-May-24,Absent
+Shyamkumar P,07-May-24,Absent
+Muhammed Ashfaq K,07-May-24,Absent
+Karisma Paul,07-May-24,9h 35m
+Aswin V,07-May-24,Absent
+Nithyadas VP,07-May-24,Absent
+Navya P,07-May-24,Absent
+Fida Salam,07-May-24,Absent
+Foxiom Accounts,08-May-24,Absent
+Vishnu Sarath KT,08-May-24,8h 7m
+Hafna KT,08-May-24,Absent
+Mohammed Jabin K,08-May-24,8h 10m
+Muhammed Rifad CC,08-May-24,Absent
+Hrithika P,08-May-24,8h 43m
+Ahamed Jaseel KP,08-May-24,5h 6m
+Muhammed Arshak Roshan M,08-May-24,9h 24m
+Nikhil Krishna K,08-May-24,9h 2m
+Muhammed muhsin KP,08-May-24,8h 56m
+Mohammed Ajmal PK,08-May-24,On Leave
+Anju K,08-May-24,4h 11m
+Nayana Manoharan KK,08-May-24,8h 49m
+Jishnu A,08-May-24,10h 17m
+Samjana K,08-May-24,8h 42m
+Christapher C T,08-May-24,On Leave
+Akshay VP,08-May-24,10h 13m
+Thanseer M,08-May-24,8h 15m
+Mohammed Riyas K,08-May-24,8h 59m
+Mohammed Ajmal VP,08-May-24,9h 14m
+Aswin PK,08-May-24,8h 50m
+Aswini P,08-May-24,Absent
+Muhammed Salih,08-May-24,Absent
+Shafeeque,08-May-24,Absent
+Shyamkumar P,08-May-24,Absent
+Muhammed Ashfaq K,08-May-24,Absent
+Karisma Paul,08-May-24,9h 3m
+Aswin V,08-May-24,Absent
+Nithyadas VP,08-May-24,Absent
+Navya P,08-May-24,Absent
+Fida Salam,08-May-24,Absent
+Foxiom Accounts,09-May-24,Absent
+Vishnu Sarath KT,09-May-24,8h 52m
+Hafna KT,09-May-24,6h 35m
+Mohammed Jabin K,09-May-24,8h 7m
+Muhammed Rifad CC,09-May-24,Absent
+Hrithika P,09-May-24,9h 20m
+Ahamed Jaseel KP,09-May-24,8h 47m
+Muhammed Arshak Roshan M,09-May-24,9h 6m
+Nikhil Krishna K,09-May-24,7h 31m
+Muhammed muhsin KP,09-May-24,8h 59m
+Mohammed Ajmal PK,09-May-24,8h 51m
+Anju K,09-May-24,8h 21m
+Nayana Manoharan KK,09-May-24,10h 7m
+Jishnu A,09-May-24,8h 57m
+Samjana K,09-May-24,10h 10m
+Christapher C T,09-May-24,12h 25m
+Akshay VP,09-May-24,8h 54m
+Thanseer M,09-May-24,8h 32m
+Mohammed Riyas K,09-May-24,9h 43m
+Mohammed Ajmal VP,09-May-24,12h 58m
+Aswin PK,09-May-24,11h 59m
+Aswini P,09-May-24,7h 52m
+Muhammed Salih,09-May-24,Absent
+Shafeeque,09-May-24,Absent
+Shyamkumar P,09-May-24,Absent
+Muhammed Ashfaq K,09-May-24,Absent
+Karisma Paul,09-May-24,9h 2m
+Aswin V,09-May-24,Absent
+Nithyadas VP,09-May-24,Absent
+Navya P,09-May-24,Absent
+Fida Salam,09-May-24,Absent
+Foxiom Accounts,10-May-24,Absent
+Vishnu Sarath KT,10-May-24,8h 6m
+Hafna KT,10-May-24,6h 33m
+Mohammed Jabin K,10-May-24,7h 38m
+Muhammed Rifad CC,10-May-24,Absent
+Hrithika P,10-May-24,On Leave
+Ahamed Jaseel KP,10-May-24,8h 33m
+Muhammed Arshak Roshan M,10-May-24,9h 19m
+Nikhil Krishna K,10-May-24,8h 54m
+Muhammed muhsin KP,10-May-24,9h 11m
+Mohammed Ajmal PK,10-May-24,8h 48m
+Anju K,10-May-24,Absent
+Nayana Manoharan KK,10-May-24,9h 12m
+Jishnu A,10-May-24,7h 30m
+Samjana K,10-May-24,On Leave
+Christapher C T,10-May-24,9h 30m
+Akshay VP,10-May-24,9h 17m
+Thanseer M,10-May-24,8h 31m
+Mohammed Riyas K,10-May-24,9h 4m
+Mohammed Ajmal VP,10-May-24,7h 51m
+Aswin PK,10-May-24,8h 55m
+Aswini P,10-May-24,7h 20m
+Muhammed Salih,10-May-24,Absent
+Shafeeque,10-May-24,Absent
+Shyamkumar P,10-May-24,Absent
+Muhammed Ashfaq K,10-May-24,Absent
+Karisma Paul,10-May-24,9h 4m
+Aswin V,10-May-24,Absent
+Nithyadas VP,10-May-24,Absent
+Navya P,10-May-24,Absent
+Fida Salam,10-May-24,Absent
+Foxiom Accounts,11-May-24,Absent
+Vishnu Sarath KT,11-May-24,10h 50m
+Hafna KT,11-May-24,9h 37m
+Mohammed Jabin K,11-May-24,9h 27m
+Muhammed Rifad CC,11-May-24,8h 46m
+Hrithika P,11-May-24,9h 14m
+Ahamed Jaseel KP,11-May-24,8h 39m
+Muhammed Arshak Roshan M,11-May-24,On Leave
+Nikhil Krishna K,11-May-24,9h 4m
+Muhammed muhsin KP,11-May-24,8h 21m
+Mohammed Ajmal PK,11-May-24,8h 55m
+Anju K,11-May-24,9h 1m
+Nayana Manoharan KK,11-May-24,10h 9m
+Jishnu A,11-May-24,On Leave
+Samjana K,11-May-24,On Leave
+Christapher C T,11-May-24,10h 3m
+Akshay VP,11-May-24,9h 5m
+Thanseer M,11-May-24,8h 41m
+Mohammed Riyas K,11-May-24,9h 58m
+Mohammed Ajmal VP,11-May-24,9h 20m
+Aswin PK,11-May-24,9h 43m
+Aswini P,11-May-24,8h 53m
+Muhammed Salih,11-May-24,Absent
+Shafeeque,11-May-24,Absent
+Shyamkumar P,11-May-24,On Leave
+Muhammed Ashfaq K,11-May-24,Absent
+Karisma Paul,11-May-24,9h 18m
+Aswin V,11-May-24,Absent
+Nithyadas VP,11-May-24,Absent
+Navya P,11-May-24,Absent
+Fida Salam,11-May-24,Absent
+Foxiom Accounts,12-May-24,Absent
+Vishnu Sarath KT,12-May-24,Absent
+Hafna KT,12-May-24,Absent
+Mohammed Jabin K,12-May-24,Absent
+Muhammed Rifad CC,12-May-24,Absent
+Hrithika P,12-May-24,Absent
+Ahamed Jaseel KP,12-May-24,Absent
+Muhammed Arshak Roshan M,12-May-24,Absent
+Nikhil Krishna K,12-May-24,Absent
+Muhammed muhsin KP,12-May-24,Absent
+Mohammed Ajmal PK,12-May-24,Absent
+Anju K,12-May-24,Absent
+Nayana Manoharan KK,12-May-24,Absent
+Jishnu A,12-May-24,Absent
+Samjana K,12-May-24,Absent
+Christapher C T,12-May-24,Absent
+Akshay VP,12-May-24,Absent
+Thanseer M,12-May-24,Absent
+Mohammed Riyas K,12-May-24,Absent
+Mohammed Ajmal VP,12-May-24,Absent
+Aswin PK,12-May-24,Absent
+Aswini P,12-May-24,Absent
+Muhammed Salih,12-May-24,Absent
+Shafeeque,12-May-24,Absent
+Shyamkumar P,12-May-24,Absent
+Muhammed Ashfaq K,12-May-24,Absent
+Karisma Paul,12-May-24,Absent
+Aswin V,12-May-24,Absent
+Nithyadas VP,12-May-24,Absent
+Navya P,12-May-24,Absent
+Fida Salam,12-May-24,Absent
+Foxiom Accounts,13-May-24,Absent
+Vishnu Sarath KT,13-May-24,8h 42m
+Hafna KT,13-May-24,8h 31m
+Mohammed Jabin K,13-May-24,8h 11m
+Muhammed Rifad CC,13-May-24,On Leave
+Hrithika P,13-May-24,9h 52m
+Ahamed Jaseel KP,13-May-24,9h
+Muhammed Arshak Roshan M,13-May-24,9h 6m
+Nikhil Krishna K,13-May-24,9h 2m
+Muhammed muhsin KP,13-May-24,Absent
+Mohammed Ajmal PK,13-May-24,8h 2m
+Anju K,13-May-24,8h 34m
+Nayana Manoharan KK,13-May-24,9h 5m
+Jishnu A,13-May-24,On Leave
+Samjana K,13-May-24,9h
+Christapher C T,13-May-24,8h 40m
+Akshay VP,13-May-24,10h 32m
+Thanseer M,13-May-24,8h 18m
+Mohammed Riyas K,13-May-24,8h 43m
+Mohammed Ajmal VP,13-May-24,8h 28m
+Aswin PK,13-May-24,8h 42m
+Aswini P,13-May-24,Absent
+Muhammed Salih,13-May-24,Absent
+Shafeeque,13-May-24,Absent
+Shyamkumar P,13-May-24,On Leave
+Muhammed Ashfaq K,13-May-24,Absent
+Karisma Paul,13-May-24,9h 4m
+Aswin V,13-May-24,Absent
+Nithyadas VP,13-May-24,Absent
+Navya P,13-May-24,Absent
+Fida Salam,13-May-24,Absent
+Foxiom Accounts,14-May-24,Absent
+Vishnu Sarath KT,14-May-24,7h 47m
+Hafna KT,14-May-24,Absent
+Mohammed Jabin K,14-May-24,9h 31m
+Muhammed Rifad CC,14-May-24,On Leave
+Hrithika P,14-May-24,8h 54m
+Ahamed Jaseel KP,14-May-24,8h 27m
+Muhammed Arshak Roshan M,14-May-24,9h 14m
+Nikhil Krishna K,14-May-24,8h 49m
+Muhammed muhsin KP,14-May-24,8h 44m
+Mohammed Ajmal PK,14-May-24,8h 16m
+Anju K,14-May-24,8h 38m
+Nayana Manoharan KK,14-May-24,9h 39m
+Jishnu A,14-May-24,8h 48m
+Samjana K,14-May-24,8h 28m
+Christapher C T,14-May-24,9h 37m
+Akshay VP,14-May-24,9h 7m
+Thanseer M,14-May-24,8h 44m
+Mohammed Riyas K,14-May-24,8h 55m
+Mohammed Ajmal VP,14-May-24,6h 51m
+Aswin PK,14-May-24,8h
+Aswini P,14-May-24,8h 18m
+Muhammed Salih,14-May-24,Absent
+Shafeeque,14-May-24,Absent
+Shyamkumar P,14-May-24,Absent
+Muhammed Ashfaq K,14-May-24,Absent
+Karisma Paul,14-May-24,9h 10m
+Aswin V,14-May-24,Absent
+Nithyadas VP,14-May-24,Absent
+Navya P,14-May-24,Absent
+Fida Salam,14-May-24,Absent
+Foxiom Accounts,15-May-24,Absent
+Vishnu Sarath KT,15-May-24,Absent
+Hafna KT,15-May-24,8h 36m
+Mohammed Jabin K,15-May-24,8h 39m
+Muhammed Rifad CC,15-May-24,Absent
+Hrithika P,15-May-24,8h 57m
+Ahamed Jaseel KP,15-May-24,8h 25m
+Muhammed Arshak Roshan M,15-May-24,8h 53m
+Nikhil Krishna K,15-May-24,9h 4m
+Muhammed muhsin KP,15-May-24,8h 50m
+Mohammed Ajmal PK,15-May-24,On Leave
+Anju K,15-May-24,On Leave
+Nayana Manoharan KK,15-May-24,8h 39m
+Jishnu A,15-May-24,10h 19m
+Samjana K,15-May-24,8h 39m
+Christapher C T,15-May-24,8h 57m
+Akshay VP,15-May-24,9h
+Thanseer M,15-May-24,9h 1m
+Mohammed Riyas K,15-May-24,8h 42m
+Mohammed Ajmal VP,15-May-24,9h 54m
+Aswin PK,15-May-24,8h 44m
+Aswini P,15-May-24,On Leave
+Muhammed Salih,15-May-24,Absent
+Shafeeque,15-May-24,Absent
+Shyamkumar P,15-May-24,Absent
+Muhammed Ashfaq K,15-May-24,Absent
+Karisma Paul,15-May-24,9h 1m
+Aswin V,15-May-24,Absent
+Nithyadas VP,15-May-24,Absent
+Navya P,15-May-24,Absent
+Fida Salam,15-May-24,Absent
+Foxiom Accounts,16-May-24,Absent
+Vishnu Sarath KT,16-May-24,Absent
+Hafna KT,16-May-24,8h 19m
+Mohammed Jabin K,16-May-24,8h 15m
+Muhammed Rifad CC,16-May-24,Absent
+Hrithika P,16-May-24,8h 54m
+Ahamed Jaseel KP,16-May-24,9h 4m
+Muhammed Arshak Roshan M,16-May-24,9h 5m
+Nikhil Krishna K,16-May-24,8h 58m
+Muhammed muhsin KP,16-May-24,8h 55m
+Mohammed Ajmal PK,16-May-24,8h 59m
+Anju K,16-May-24,8h 36m
+Nayana Manoharan KK,16-May-24,9h 7m
+Jishnu A,16-May-24,9h 20m
+Samjana K,16-May-24,8h 44m
+Christapher C T,16-May-24,9h 34m
+Akshay VP,16-May-24,8h 46m
+Thanseer M,16-May-24,8h 25m
+Mohammed Riyas K,16-May-24,9h 5m
+Mohammed Ajmal VP,16-May-24,On Leave
+Aswin PK,16-May-24,8h 52m
+Aswini P,16-May-24,8h 26m
+Muhammed Salih,16-May-24,Absent
+Shafeeque,16-May-24,Absent
+Shyamkumar P,16-May-24,Absent
+Muhammed Ashfaq K,16-May-24,Absent
+Karisma Paul,16-May-24,9h 2m
+Aswin V,16-May-24,Absent
+Nithyadas VP,16-May-24,Absent
+Navya P,16-May-24,Absent
+Fida Salam,16-May-24,Absent
+Foxiom Accounts,17-May-24,Absent
+Vishnu Sarath KT,17-May-24,8h 14m
+Hafna KT,17-May-24,7h 40m
+Mohammed Jabin K,17-May-24,7h 9m
+Muhammed Rifad CC,17-May-24,Absent
+Hrithika P,17-May-24,On Leave
+Ahamed Jaseel KP,17-May-24,9h 54m
+Muhammed Arshak Roshan M,17-May-24,8h 55m
+Nikhil Krishna K,17-May-24,9h 5m
+Muhammed muhsin KP,17-May-24,8h 56m
+Mohammed Ajmal PK,17-May-24,8h 44m
+Anju K,17-May-24,8h 29m
+Nayana Manoharan KK,17-May-24,9h 1m
+Jishnu A,17-May-24,9h 17m
+Samjana K,17-May-24,9h 7m
+Christapher C T,17-May-24,9h 48m
+Akshay VP,17-May-24,9h 5m
+Thanseer M,17-May-24,8h 22m
+Mohammed Riyas K,17-May-24,8h 57m
+Mohammed Ajmal VP,17-May-24,9h 6m
+Aswin PK,17-May-24,7h 51m
+Aswini P,17-May-24,8h 35m
+Muhammed Salih,17-May-24,Absent
+Shafeeque,17-May-24,Absent
+Shyamkumar P,17-May-24,Absent
+Muhammed Ashfaq K,17-May-24,Absent
+Karisma Paul,17-May-24,9h 6m
+Aswin V,17-May-24,Absent
+Nithyadas VP,17-May-24,Absent
+Navya P,17-May-24,Absent
+Fida Salam,17-May-24,Absent
+Foxiom Accounts,18-May-24,Absent
+Vishnu Sarath KT,18-May-24,8h 19m
+Hafna KT,18-May-24,8h 33m
+Mohammed Jabin K,18-May-24,7h 57m
+Muhammed Rifad CC,18-May-24,Absent
+Hrithika P,18-May-24,8h 55m
+Ahamed Jaseel KP,18-May-24,9h 52m
+Muhammed Arshak Roshan M,18-May-24,9h 5m
+Nikhil Krishna K,18-May-24,8h 57m
+Muhammed muhsin KP,18-May-24,9h 4m
+Mohammed Ajmal PK,18-May-24,8h 47m
+Anju K,18-May-24,Absent
+Nayana Manoharan KK,18-May-24,8h 42m
+Jishnu A,18-May-24,9h 7m
+Samjana K,18-May-24,7h 23m
+Christapher C T,18-May-24,10h 10m
+Akshay VP,18-May-24,8h 47m
+Thanseer M,18-May-24,8h 59m
+Mohammed Riyas K,18-May-24,On Leave
+Mohammed Ajmal VP,18-May-24,8h 11m
+Aswin PK,18-May-24,On Leave
+Aswini P,18-May-24,8h 29m
+Muhammed Salih,18-May-24,Absent
+Shafeeque,18-May-24,Absent
+Shyamkumar P,18-May-24,Absent
+Muhammed Ashfaq K,18-May-24,Absent
+Karisma Paul,18-May-24,9h 3m
+Aswin V,18-May-24,Absent
+Nithyadas VP,18-May-24,Absent
+Navya P,18-May-24,Absent
+Fida Salam,18-May-24,Absent
+Foxiom Accounts,19-May-24,Absent
+Vishnu Sarath KT,19-May-24,Absent
+Hafna KT,19-May-24,Absent
+Mohammed Jabin K,19-May-24,Absent
+Muhammed Rifad CC,19-May-24,Absent
+Hrithika P,19-May-24,Absent
+Ahamed Jaseel KP,19-May-24,Absent
+Muhammed Arshak Roshan M,19-May-24,Absent
+Nikhil Krishna K,19-May-24,Absent
+Muhammed muhsin KP,19-May-24,Absent
+Mohammed Ajmal PK,19-May-24,Absent
+Anju K,19-May-24,Absent
+Nayana Manoharan KK,19-May-24,Absent
+Jishnu A,19-May-24,Absent
+Samjana K,19-May-24,Absent
+Christapher C T,19-May-24,Absent
+Akshay VP,19-May-24,Absent
+Thanseer M,19-May-24,Absent
+Mohammed Riyas K,19-May-24,Absent
+Mohammed Ajmal VP,19-May-24,Absent
+Aswin PK,19-May-24,Absent
+Aswini P,19-May-24,Absent
+Muhammed Salih,19-May-24,Absent
+Shafeeque,19-May-24,Absent
+Shyamkumar P,19-May-24,Absent
+Muhammed Ashfaq K,19-May-24,Absent
+Karisma Paul,19-May-24,Absent
+Aswin V,19-May-24,Absent
+Nithyadas VP,19-May-24,Absent
+Navya P,19-May-24,Absent
+Fida Salam,19-May-24,Absent
+Foxiom Accounts,20-May-24,Absent
+Vishnu Sarath KT,20-May-24,7h 28m
+Hafna KT,20-May-24,8h 28m
+Mohammed Jabin K,20-May-24,8h 20m
+Muhammed Rifad CC,20-May-24,Absent
+Hrithika P,20-May-24,9h 28m
+Ahamed Jaseel KP,20-May-24,8h 57m
+Muhammed Arshak Roshan M,20-May-24,8h 45m
+Nikhil Krishna K,20-May-24,On Leave
+Muhammed muhsin KP,20-May-24,8h 54m
+Mohammed Ajmal PK,20-May-24,8h 35m
+Anju K,20-May-24,On Leave
+Nayana Manoharan KK,20-May-24,8h 44m
+Jishnu A,20-May-24,On Leave
+Samjana K,20-May-24,8h 28m
+Christapher C T,20-May-24,9h 18m
+Akshay VP,20-May-24,8h 41m
+Thanseer M,20-May-24,8h 58m
+Mohammed Riyas K,20-May-24,8h 58m
+Mohammed Ajmal VP,20-May-24,7h 57m
+Aswin PK,20-May-24,10h 19m
+Aswini P,20-May-24,8h 24m
+Muhammed Salih,20-May-24,Absent
+Shafeeque,20-May-24,Absent
+Shyamkumar P,20-May-24,Absent
+Muhammed Ashfaq K,20-May-24,Absent
+Karisma Paul,20-May-24,9h 5m
+Aswin V,20-May-24,Absent
+Nithyadas VP,20-May-24,Absent
+Navya P,20-May-24,Absent
+Fida Salam,20-May-24,Absent
+Foxiom Accounts,21-May-24,Absent
+Vishnu Sarath KT,21-May-24,On Leave
+Hafna KT,21-May-24,8h 26m
+Mohammed Jabin K,21-May-24,7h 47m
+Muhammed Rifad CC,21-May-24,Absent
+Hrithika P,21-May-24,9h 20m
+Ahamed Jaseel KP,21-May-24,8h 51m
+Muhammed Arshak Roshan M,21-May-24,8h 45m
+Nikhil Krishna K,21-May-24,9h 2m
+Muhammed muhsin KP,21-May-24,8h 55m
+Mohammed Ajmal PK,21-May-24,8h 52m
+Anju K,21-May-24,8h 54m
+Nayana Manoharan KK,21-May-24,8h 29m
+Jishnu A,21-May-24,9h 8m
+Samjana K,21-May-24,8h 27m
+Christapher C T,21-May-24,9h 27m
+Akshay VP,21-May-24,8h 49m
+Thanseer M,21-May-24,8h 21m
+Mohammed Riyas K,21-May-24,8h 23m
+Mohammed Ajmal VP,21-May-24,13h 30m
+Aswin PK,21-May-24,7h 20m
+Aswini P,21-May-24,8h 33m
+Muhammed Salih,21-May-24,Absent
+Shafeeque,21-May-24,Absent
+Shyamkumar P,21-May-24,Absent
+Muhammed Ashfaq K,21-May-24,Absent
+Karisma Paul,21-May-24,9h 2m
+Aswin V,21-May-24,Absent
+Nithyadas VP,21-May-24,Absent
+Navya P,21-May-24,Absent
+Fida Salam,21-May-24,Absent
+Foxiom Accounts,22-May-24,Absent
+Vishnu Sarath KT,22-May-24,9h 2m
+Hafna KT,22-May-24,Absent
+Mohammed Jabin K,22-May-24,7h 51m
+Muhammed Rifad CC,22-May-24,Absent
+Hrithika P,22-May-24,8h 53m
+Ahamed Jaseel KP,22-May-24,7h 2m
+Muhammed Arshak Roshan M,22-May-24,9h 34m
+Nikhil Krishna K,22-May-24,9h 7m
+Muhammed muhsin KP,22-May-24,8h 59m
+Mohammed Ajmal PK,22-May-24,8h 43m
+Anju K,22-May-24,8h 59m
+Nayana Manoharan KK,22-May-24,9h 2m
+Jishnu A,22-May-24,11h 54m
+Samjana K,22-May-24,8h 18m
+Christapher C T,22-May-24,10h 25m
+Akshay VP,22-May-24,8h 53m
+Thanseer M,22-May-24,8h 33m
+Mohammed Riyas K,22-May-24,9h 5m
+Mohammed Ajmal VP,22-May-24,13h 26m
+Aswin PK,22-May-24,8h 24m
+Aswini P,22-May-24,8h 26m
+Muhammed Salih,22-May-24,Absent
+Shafeeque,22-May-24,Absent
+Shyamkumar P,22-May-24,Absent
+Muhammed Ashfaq K,22-May-24,Absent
+Karisma Paul,22-May-24,9h 5m
+Aswin V,22-May-24,Absent
+Nithyadas VP,22-May-24,9h 5m
+Navya P,22-May-24,9h 6m
+Fida Salam,22-May-24,Absent
+Foxiom Accounts,23-May-24,Absent
+Vishnu Sarath KT,23-May-24,6h 54m
+Hafna KT,23-May-24,Absent
+Mohammed Jabin K,23-May-24,8h 27m
+Muhammed Rifad CC,23-May-24,Absent
+Hrithika P,23-May-24,7h 46m
+Ahamed Jaseel KP,23-May-24,8h 33m
+Muhammed Arshak Roshan M,23-May-24,8h 19m
+Nikhil Krishna K,23-May-24,7h 39m
+Muhammed muhsin KP,23-May-24,8h 33m
+Mohammed Ajmal PK,23-May-24,8h 18m
+Anju K,23-May-24,8h 42m
+Nayana Manoharan KK,23-May-24,6h 51m
+Jishnu A,23-May-24,8h 24m
+Samjana K,23-May-24,6h 46m
+Christapher C T,23-May-24,8h 52m
+Akshay VP,23-May-24,8h 34m
+Thanseer M,23-May-24,7h 51m
+Mohammed Riyas K,23-May-24,7h 53m
+Mohammed Ajmal VP,23-May-24,7h 45m
+Aswin PK,23-May-24,8h 13m
+Aswini P,23-May-24,Absent
+Muhammed Salih,23-May-24,Absent
+Shafeeque,23-May-24,Absent
+Shyamkumar P,23-May-24,Absent
+Muhammed Ashfaq K,23-May-24,Absent
+Karisma Paul,23-May-24,7h 27m
+Aswin V,23-May-24,Absent
+Nithyadas VP,23-May-24,7h 10m
+Navya P,23-May-24,7h 13m
+Fida Salam,23-May-24,Absent
+Foxiom Accounts,24-May-24,Absent
+Vishnu Sarath KT,24-May-24,Absent
+Hafna KT,24-May-24,Absent
+Mohammed Jabin K,24-May-24,Absent
+Muhammed Rifad CC,24-May-24,Absent
+Hrithika P,24-May-24,Absent
+Ahamed Jaseel KP,24-May-24,Absent
+Muhammed Arshak Roshan M,24-May-24,Absent
+Nikhil Krishna K,24-May-24,Absent
+Muhammed muhsin KP,24-May-24,Absent
+Mohammed Ajmal PK,24-May-24,Absent
+Anju K,24-May-24,Absent
+Nayana Manoharan KK,24-May-24,Absent
+Jishnu A,24-May-24,Absent
+Samjana K,24-May-24,Absent
+Christapher C T,24-May-24,Absent
+Akshay VP,24-May-24,Absent
+Thanseer M,24-May-24,Absent
+Mohammed Riyas K,24-May-24,Absent
+Mohammed Ajmal VP,24-May-24,Absent
+Aswin PK,24-May-24,Absent
+Aswini P,24-May-24,Absent
+Muhammed Salih,24-May-24,Absent
+Shafeeque,24-May-24,Absent
+Shyamkumar P,24-May-24,Absent
+Muhammed Ashfaq K,24-May-24,Absent
+Karisma Paul,24-May-24,On Leave
+Aswin V,24-May-24,Absent
+Nithyadas VP,24-May-24,Absent
+Navya P,24-May-24,Absent
+Fida Salam,24-May-24,Absent
+Foxiom Accounts,25-May-24,2m
+Vishnu Sarath KT,25-May-24,Absent
+Hafna KT,25-May-24,3h 17m
+Mohammed Jabin K,25-May-24,Absent
+Muhammed Rifad CC,25-May-24,Present(Late)
+Hrithika P,25-May-24,Absent
+Ahamed Jaseel KP,25-May-24,Absent
+Muhammed Arshak Roshan M,25-May-24,Absent
+Nikhil Krishna K,25-May-24,Absent
+Muhammed muhsin KP,25-May-24,Absent
+Mohammed Ajmal PK,25-May-24,On Leave
+Anju K,25-May-24,Absent
+Nayana Manoharan KK,25-May-24,On Leave
+Jishnu A,25-May-24,Present(Late)
+Samjana K,25-May-24,8h 26m
+Christapher C T,25-May-24,Absent
+Akshay VP,25-May-24,Absent
+Thanseer M,25-May-24,Absent
+Mohammed Riyas K,25-May-24,Absent
+Mohammed Ajmal VP,25-May-24,Absent
+Aswin PK,25-May-24,8h 20m
+Aswini P,25-May-24,On Leave
+Muhammed Salih,25-May-24,Absent
+Shafeeque,25-May-24,Absent
+Shyamkumar P,25-May-24,Absent
+Muhammed Ashfaq K,25-May-24,Absent
+Karisma Paul,25-May-24,On Leave
+Aswin V,25-May-24,On Leave
+Nithyadas VP,25-May-24,On Leave
+Navya P,25-May-24,8h 15m
+Fida Salam,25-May-24,Absent
+Foxiom Accounts,26-May-24,Absent
+Vishnu Sarath KT,26-May-24,Absent
+Hafna KT,26-May-24,Absent
+Mohammed Jabin K,26-May-24,Absent
+Muhammed Rifad CC,26-May-24,Absent
+Hrithika P,26-May-24,Absent
+Ahamed Jaseel KP,26-May-24,Absent
+Muhammed Arshak Roshan M,26-May-24,Absent
+Nikhil Krishna K,26-May-24,Absent
+Muhammed muhsin KP,26-May-24,Absent
+Mohammed Ajmal PK,26-May-24,Absent
+Anju K,26-May-24,Present(Late)
+Nayana Manoharan KK,26-May-24,Absent
+Jishnu A,26-May-24,Absent
+Samjana K,26-May-24,Absent
+Christapher C T,26-May-24,Absent
+Akshay VP,26-May-24,Absent
+Thanseer M,26-May-24,Absent
+Mohammed Riyas K,26-May-24,Absent
+Mohammed Ajmal VP,26-May-24,Absent
+Aswin PK,26-May-24,Absent
+Aswini P,26-May-24,Absent
+Muhammed Salih,26-May-24,Absent
+Shafeeque,26-May-24,Absent
+Shyamkumar P,26-May-24,Absent
+Muhammed Ashfaq K,26-May-24,Absent
+Karisma Paul,26-May-24,Absent
+Aswin V,26-May-24,Absent
+Nithyadas VP,26-May-24,Absent
+Navya P,26-May-24,Absent
+Fida Salam,26-May-24,Absent
+Foxiom Accounts,27-May-24,9h 19m
+Vishnu Sarath KT,27-May-24,8h 56m
+Hafna KT,27-May-24,8h 41m
+Mohammed Jabin K,27-May-24,8h 40m
+Muhammed Rifad CC,27-May-24,Present(Late)
+Hrithika P,27-May-24,9h 35m
+Ahamed Jaseel KP,27-May-24,10h 6m
+Muhammed Arshak Roshan M,27-May-24,8h 59m
+Nikhil Krishna K,27-May-24,Absent
+Muhammed muhsin KP,27-May-24,8h 50m
+Mohammed Ajmal PK,27-May-24,6h 41m
+Anju K,27-May-24,8h 54m
+Nayana Manoharan KK,27-May-24,8h 56m
+Jishnu A,27-May-24,9h 47m
+Samjana K,27-May-24,8h 20m
+Christapher C T,27-May-24,9h 34m
+Akshay VP,27-May-24,9h 56m
+Thanseer M,27-May-24,7h 43m
+Mohammed Riyas K,27-May-24,11h 9m
+Mohammed Ajmal VP,27-May-24,8h 14m
+Aswin PK,27-May-24,8h 36m
+Aswini P,27-May-24,Absent
+Muhammed Salih,27-May-24,Absent
+Shafeeque,27-May-24,Absent
+Shyamkumar P,27-May-24,Absent
+Muhammed Ashfaq K,27-May-24,Absent
+Karisma Paul,27-May-24,9h 3m
+Aswin V,27-May-24,8h 59m
+Nithyadas VP,27-May-24,9h 9m
+Navya P,27-May-24,9h 9m
+Fida Salam,27-May-24,Absent
+Foxiom Accounts,28-May-24,Present(Late)
+Vishnu Sarath KT,28-May-24,8h 5m
+Hafna KT,28-May-24,Absent
+Mohammed Jabin K,28-May-24,9h 59m
+Muhammed Rifad CC,28-May-24,Absent
+Hrithika P,28-May-24,9h 6m
+Ahamed Jaseel KP,28-May-24,9h 55m
+Muhammed Arshak Roshan M,28-May-24,9h 20m
+Nikhil Krishna K,28-May-24,Absent
+Muhammed muhsin KP,28-May-24,On Leave
+Mohammed Ajmal PK,28-May-24,8h 9m
+Anju K,28-May-24,On Leave
+Nayana Manoharan KK,28-May-24,9h 3m
+Jishnu A,28-May-24,10h 16m
+Samjana K,28-May-24,8h 23m
+Christapher C T,28-May-24,9h 22m
+Akshay VP,28-May-24,8h 43m
+Thanseer M,28-May-24,8h 50m
+Mohammed Riyas K,28-May-24,9h 20m
+Mohammed Ajmal VP,28-May-24,8h 3m
+Aswin PK,28-May-24,8h 16m
+Aswini P,28-May-24,6h 24m
+Muhammed Salih,28-May-24,Absent
+Shafeeque,28-May-24,Absent
+Shyamkumar P,28-May-24,Absent
+Muhammed Ashfaq K,28-May-24,Absent
+Karisma Paul,28-May-24,9h 3m
+Aswin V,28-May-24,8h 50m
+Nithyadas VP,28-May-24,9h
+Navya P,28-May-24,9h 7m
+Fida Salam,28-May-24,Absent
+Foxiom Accounts,29-May-24,6h 41m
+Vishnu Sarath KT,29-May-24,8h 1m
+Hafna KT,29-May-24,8h 47m
+Mohammed Jabin K,29-May-24,9h 24m
+Muhammed Rifad CC,29-May-24,Absent
+Hrithika P,29-May-24,9h 20m
+Ahamed Jaseel KP,29-May-24,9h 33m
+Muhammed Arshak Roshan M,29-May-24,8h 5m
+Nikhil Krishna K,29-May-24,Absent
+Muhammed muhsin KP,29-May-24,9h 3m
+Mohammed Ajmal PK,29-May-24,8h 55m
+Anju K,29-May-24,8h 42m
+Nayana Manoharan KK,29-May-24,9h 2m
+Jishnu A,29-May-24,10h 39m
+Samjana K,29-May-24,8h 51m
+Christapher C T,29-May-24,9h 38m
+Akshay VP,29-May-24,9h 6m
+Thanseer M,29-May-24,8h 56m
+Mohammed Riyas K,29-May-24,9h 12m
+Mohammed Ajmal VP,29-May-24,8h 21m
+Aswin PK,29-May-24,8h 33m
+Aswini P,29-May-24,8h 16m
+Muhammed Salih,29-May-24,Absent
+Shafeeque,29-May-24,Absent
+Shyamkumar P,29-May-24,Absent
+Muhammed Ashfaq K,29-May-24,Absent
+Karisma Paul,29-May-24,9h 36m
+Aswin V,29-May-24,8h 55m
+Nithyadas VP,29-May-24,8h 58m
+Navya P,29-May-24,9h
+Fida Salam,29-May-24,Absent
+Foxiom Accounts,30-May-24,Absent
+Vishnu Sarath KT,30-May-24,Absent
+Hafna KT,30-May-24,8h 33m
+Mohammed Jabin K,30-May-24,Absent
+Muhammed Rifad CC,30-May-24,Absent
+Hrithika P,30-May-24,9h 22m
+Ahamed Jaseel KP,30-May-24,--
+Muhammed Arshak Roshan M,30-May-24,Absent
+Nikhil Krishna K,30-May-24,Absent
+Muhammed muhsin KP,30-May-24,8h 54m
+Mohammed Ajmal PK,30-May-24,8h 12m
+Anju K,30-May-24,9h 28m
+Nayana Manoharan KK,30-May-24,Present(Late)
+Jishnu A,30-May-24,9h 30m
+Samjana K,30-May-24,8h 44m
+Christapher C T,30-May-24,8h 39m
+Akshay VP,30-May-24,Absent
+Thanseer M,30-May-24,Absent
+Mohammed Riyas K,30-May-24,Absent
+Mohammed Ajmal VP,30-May-24,On Leave
+Aswin PK,30-May-24,--
+Aswini P,30-May-24,Present(Late)
+Muhammed Salih,30-May-24,Absent
+Shafeeque,30-May-24,Absent
+Shyamkumar P,30-May-24,Absent
+Muhammed Ashfaq K,30-May-24,Absent
+Karisma Paul,30-May-24,9h 1m
+Aswin V,30-May-24,2m
+Nithyadas VP,30-May-24,Absent
+Navya P,30-May-24,18h 7m
+Fida Salam,30-May-24,Absent
+Foxiom Accounts,31-May-24,
+Vishnu Sarath KT,31-May-24,Absent
+Hafna KT,31-May-24,Absent
+Mohammed Jabin K,31-May-24,Absent
+Muhammed Rifad CC,31-May-24,Absent
+Hrithika P,31-May-24,Absent
+Ahamed Jaseel KP,31-May-24,Absent
+Muhammed Arshak Roshan M,31-May-24,Absent
+Nikhil Krishna K,31-May-24,Absent
+Muhammed muhsin KP,31-May-24,Absent
+Mohammed Ajmal PK,31-May-24,Absent
+Anju K,31-May-24,Absent
+Nayana Manoharan KK,31-May-24,Absent
+Jishnu A,31-May-24,Absent
+Samjana K,31-May-24,Absent
+Christapher C T,31-May-24,Absent
+Akshay VP,31-May-24,Absent
+Thanseer M,31-May-24,Absent
+Mohammed Riyas K,31-May-24,Absent
+Mohammed Ajmal VP,31-May-24,Absent
+Aswin PK,31-May-24,Absent
+Aswini P,31-May-24,Absent
+Muhammed Salih,31-May-24,Absent
+Shafeeque,31-May-24,Absent
+Shyamkumar P,31-May-24,Absent
+Muhammed Ashfaq K,31-May-24,Absent
+Karisma Paul,31-May-24,Absent
+Aswin V,31-May-24,Absent
+Nithyadas VP,31-May-24,Absent
+Navya P,31-May-24,Absent
+Fida Salam,31-May-24,Absent
